@@ -1,0 +1,15 @@
+.home{
+    position: relative!important;
+    padding-top : 113px;
+}
+
+.carousel{
+    align-items: center;
+    height: 85vh;
+    width: 180vh;
+    padding-left: 4.5%;
+}
+
+.d-block{
+    height: 85vh;
+}

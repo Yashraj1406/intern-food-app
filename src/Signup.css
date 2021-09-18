@@ -1,0 +1,116 @@
+.form {
+    padding: 150px 120px 50px 120px;
+}
+
+.form-group {
+    padding: 0 400px;
+}
+
+.elem > input {
+    min-height: 35px;
+    border: 1px hidden;
+    border-radius: 5px;
+    min-width: 100%;
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.40);
+}
+
+.elem > p{
+    text-align: left;
+    margin:40px auto 5px 5px;
+}
+
+.birthdate{
+    display:flex;
+    flex-direction: column;
+}
+
+.birthdate > p{
+    text-align: left;
+    margin:40px auto 5px 5px;
+}
+
+.react-date-picker__inputGroup{
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.40);
+    border: 1px hidden;
+    border-radius: 5px;
+}
+
+.react-date-picker__wrapper {
+    border: none !important;;
+}
+
+.gender {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.gender-para {
+    margin-top: 15px !important;
+    padding-right: 70px;
+}
+
+select{
+    min-height:35px;
+    min-width: 64%;
+    border-radius: 5px;
+    border: 2px hidden;
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.40);
+}
+
+.elem > textarea {
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.40);
+    min-width: 100%;
+    min-height: 150px;
+    border: 1px hidden;
+    border-radius: 5px;
+}
+
+.countryDropdown {
+    min-height: 25px;
+    border: 1px hidden;
+    border-radius: 5px;
+    min-width: 100%;
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.40);
+}
+
+.PhoneInputCountryIcon {
+    max-width: 20px;
+    min-height: 10px;
+}
+
+.PhoneInputCountrySelect {
+    max-width: 100px;
+    margin-right: 25px;
+    min-height: 25px;
+    border: 1px hidden;
+    border-radius: 5px;
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.40);
+}
+
+.PhoneInput {
+    display: flex;    
+    min-width: 100%;
+}
+
+.PhoneInputInput {
+    max-height: 25px;
+    min-width:  73%;
+    border: 1px hidden;
+    border-radius: 5px;
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.40);
+}
+
+.chan-button {
+    font-size: 16px;
+    margin-top:10px;
+    min-width: 100px;
+    min-height: 50px;
+    text-align: center;
+    background-color: #A5EBC2;
+    border: 2px hidden;
+    border-radius: 7px;
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.40);
+
+}
